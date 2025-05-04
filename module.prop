@@ -1,0 +1,17 @@
+id=OxygenX
+name=OxygenX ♥️️OnePlus❤️+ HibyFC4
+version=v1.0.6
+versionCode=100
+author=Npotapov13
+description=Оптимизирует аудио для устройств OnePlus с Hiby FC4 USB DAC.\n
+
+Поддерживает форматы высокого разрешения:
+MQA, DSD, PCM до 768 кГц.\n
+
+Версия 1.0.6 включает:\n\
+
+Обновленный build.prop для улучшения аудио.\n\
+Расширенные частоты в audio_io_policy.conf.\n\
+Оптимизированные маршруты USB в audio_policy_configuration.xml.\n\
+Поддержка MQA и DSD.\n\
+Исправления ошибок и улучшение стабильности.
